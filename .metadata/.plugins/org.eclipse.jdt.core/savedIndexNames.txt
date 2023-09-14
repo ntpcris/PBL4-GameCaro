@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+D:\PhuCris Study\PBL4\PBLjava\.metadata\.plugins\org.eclipse.jdt.core
+282071031.index
+3630781804.index
+1596547259.index
+1303182225.index
+2314030905.index
+1915756834.index
+1254931829.index
+2111799721.index
+2714296639.index
+1865797976.index

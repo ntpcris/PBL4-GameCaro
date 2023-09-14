@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="caro-game-client-main/src"/>
+	<classpathentry kind="src" path="caro-game-server-main/src"/>
+	<classpathentry kind="lib" path="caro-game-client-main/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="caro-game-client-main/lib/mssql-jdbc-9.2.1.jre15.jar"/>
+	<classpathentry kind="lib" path="caro-game-client-main/lib/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="caro-game-server-main/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="caro-game-server-main/lib/mssql-jdbc-9.2.1.jre15.jar"/>
+	<classpathentry kind="lib" path="caro-game-server-main/lib/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="output" path="caro-game-client-main/build/classes"/>
+</classpath>
